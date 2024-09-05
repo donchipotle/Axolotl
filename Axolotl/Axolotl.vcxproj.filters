@@ -35,6 +35,8 @@
       <Filter>Axolotl</Filter>
     </ClInclude>
     <ClInclude Include="src\axpch.h" />
+    <ClInclude Include="WindowsWindow.h" />
+    <ClInclude Include="src\Axolotl\Window.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Axolotl\Application.cpp">
@@ -44,5 +46,6 @@
       <Filter>Axolotl</Filter>
     </ClCompile>
     <ClCompile Include="src\axpch.cpp" />
+    <ClCompile Include="WindowsWindow.cpp" />
   </ItemGroup>
 </Project>

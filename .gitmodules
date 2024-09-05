@@ -1,3 +1,6 @@
 [submodule "Axolotl/vendor/spdlog"]
 	path = Axolotl/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Axolotl/vendor/GLFW"]
+	path = Axolotl/vendor/GLFW
+	url = https://github.com/TheCherno/glfw.git
